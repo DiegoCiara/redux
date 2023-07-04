@@ -34,7 +34,7 @@ The [Redux+JS template for Create-React-App](https://github.com/reduxjs/cra-temp
 
 ## Usage Summary
 
-### Install Redux Toolkit and React-Redux
+### Instaling Redux Toolkit and React-Redux
 
 Add the Redux Toolkit and React-Redux packages to your project:
 
